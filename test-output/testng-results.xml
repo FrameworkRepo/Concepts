@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26981" started-at="2024-03-30T08:15:20Z" finished-at="2024-03-30T08:15:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26981" started-at="2024-03-30T08:15:20Z" finished-at="2024-03-30T08:15:47Z">
+      <class name="Selenium.UploadAndDownloadFile.WriteExcel">
+        <test-method status="PASS" signature="Check()[pri:0, instance:Selenium.UploadAndDownloadFile.WriteExcel@33cb5951]" name="Check" duration-ms="26949" started-at="2024-03-30T08:15:20Z" finished-at="2024-03-30T08:15:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check -->
+      </class> <!-- Selenium.UploadAndDownloadFile.WriteExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
